@@ -1,9 +1,9 @@
 name: ci-cd pipeline app backend deploy to AWS-EKS
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main/PROYECTO-UTEC-GP01/GP01-BACKEND" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "main/PROYECTO-UTEC-GP01/GP01-BACKEND" ]
 
 jobs:
   deploy:
