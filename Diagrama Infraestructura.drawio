@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T05:20:20.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_c_v58Qe-MxTmEJDkFp9" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T05:21:38.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CdchCqWnEzH8z_GyUKKC" version="22.0.8" type="github">
   <diagram name="Página-1" id="qXAZ6ED-eoiPxc_VWZU6">
-    <mxGraphModel dx="1781" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,8 +83,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-290" y="611.8" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-264" y="599" />
-              <mxPoint x="-264" y="660" />
+              <mxPoint x="-260" y="599" />
+              <mxPoint x="-260" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,6 +118,10 @@
         <mxCell id="wZPKLo5PwsMdjZlRSlF2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.577;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wZPKLo5PwsMdjZlRSlF2-24" target="wZPKLo5PwsMdjZlRSlF2-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-290" y="611.8" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-260" y="599" />
+              <mxPoint x="-260" y="541" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wZPKLo5PwsMdjZlRSlF2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Dv5H7iyxTRO2InqMJQss-48" target="Dv5H7iyxTRO2InqMJQss-12">
@@ -158,7 +162,7 @@
           <mxGeometry x="-239.17000000000002" y="392.37" width="64.17" height="64.26" as="geometry" />
         </mxCell>
         <mxCell id="wZPKLo5PwsMdjZlRSlF2-30" value="&lt;b&gt;OpenLens&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-232.08000000000004" y="449.76" width="80" height="30" as="geometry" />
+          <mxGeometry x="-247.50000000000003" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wZPKLo5PwsMdjZlRSlF2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wZPKLo5PwsMdjZlRSlF2-29" target="Dv5H7iyxTRO2InqMJQss-48">
           <mxGeometry relative="1" as="geometry" />
